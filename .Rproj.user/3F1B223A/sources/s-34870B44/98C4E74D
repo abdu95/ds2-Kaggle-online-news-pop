@@ -1,0 +1,28 @@
+{
+    "id": "98C4E74D",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1618006609127.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "id": "b3f6e9d1c8c848f2ad8c7bc455c831d0",
+        "name": "lm_wend",
+        "title": "lm_wend",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1884452891480,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1618006609127,
+    "read_only": false,
+    "read_only_alternatives": []
+}

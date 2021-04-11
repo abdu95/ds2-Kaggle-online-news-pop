@@ -1,0 +1,8 @@
+"0","rfRoc <- roc(
+  predictor=predict(rf_model_1, train_raw, type='prob', decision.values=T)$yes, 
+  response= train_raw$is_popular)
+"
+"2","Setting levels: control = yes, case = no
+"
+"2","Setting direction: controls > cases
+"

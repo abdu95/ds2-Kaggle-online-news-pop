@@ -1,0 +1,23 @@
+"0","# library(lattice)
+# library(glmnet)
+# library(rattle)
+# library(Hmisc)
+# library(modelsummary)
+# library(data.table)
+# library(data.tree)
+# library(DiagrammeR)
+# library(gbm)
+# library(xgboost)
+library(pROC)
+"
+"2","Type 'citation(""pROC"")' for a citation.
+"
+"2","
+Attaching package: ‘pROC’
+
+"
+"2","The following objects are masked from ‘package:stats’:
+
+    cov, smooth, var
+
+"

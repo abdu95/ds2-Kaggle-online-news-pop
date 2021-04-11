@@ -1,0 +1,28 @@
+{
+    "id": "A79396D1",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1618136494672.0,
+    "source_on_save": false,
+    "relative_order": 13,
+    "properties": {
+        "id": "c3c93f362e9c4220a2b8aa48caba5dde",
+        "name": "nnet_model",
+        "title": "nnet_model",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2314861394265469556,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1618136494672,
+    "read_only": false,
+    "read_only_alternatives": []
+}

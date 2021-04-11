@@ -1,0 +1,4 @@
+"0","# Create H2O datasets
+data_train <- as.h2o(train_raw)
+"
+"2","data.table cannot be used without R package bit64 version 0.9.7 or higher.  Please upgrade to take advangage of data.table speedups."
